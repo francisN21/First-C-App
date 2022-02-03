@@ -9,6 +9,7 @@ int main()
     printf("Age is %d", age);
     cout << "\nHello World!";
     cout << "\n";
+    cout << "\nPanget mo Malcolm";
 
     return 0;
 }
